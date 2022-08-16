@@ -15,7 +15,7 @@ Man peacket einen angle um sich einen forteil zu verschaffen um sich nicht mehre
 
 ![image](https://user-images.githubusercontent.com/110892382/184824285-0afec454-88ce-40d4-9786-8251bda1ba20.png)
 
-![image](https://user-images.githubusercontent.com/110892382/184825045-f567d97e-9192-4a2f-8a2c-8e64f94f62b1.png)
+![giphy](https://user-images.githubusercontent.com/110892382/184826566-c02544f5-df61-4095-8c58-caf0857fd1af.gif)
 
 
 ## Verifikation
