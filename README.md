@@ -11,15 +11,12 @@ Ich habe in Valorant gelernt wie man Bunny hoppt und wie man einen Angel richtig
 
 ## Beschreibung
 
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 Man peacket einen angle um sich einen forteil zu verschaffen um sich nicht mehreren möglichen Spieler zu Exposen sondern immer nur einem um nicht von 2 abgeschossen wird. Bunny hopen man kann man am besten wenn man die Sprungtaste umschreiben zb. mausrad hoch oder runter umbinden und dann wenn man den boden fast wieder berührt das wheel bewegen.
 
 ![image](https://user-images.githubusercontent.com/110892382/184824285-0afec454-88ce-40d4-9786-8251bda1ba20.png)
 
-* Eine textliche Beschreibung
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
+![image](https://user-images.githubusercontent.com/110892382/184825045-f567d97e-9192-4a2f-8a2c-8e64f94f62b1.png)
+
 
 ## Verifikation
 
