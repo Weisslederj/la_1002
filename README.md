@@ -20,12 +20,12 @@ Man peacket einen angle um sich einen forteil zu verschaffen um sich nicht mehre
 
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
-
+Die Medien zeigen wie man einen Angel und Bunny hopped.
 # Reflektion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+👍 Es ist gut geloffen das Thema selbst zu wählen und über Valorant zu reden 
 
-👎 und etwas, was nicht gut lief.
+👎 Aber es ist nucht gut geloffen ein eigenes gif zu erstellen
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**: 
+Verbesserungen sind gifs richtig einfügen können
